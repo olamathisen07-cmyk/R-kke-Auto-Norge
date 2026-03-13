@@ -153,7 +153,7 @@ Vi tar oss av annonsering, visninger og salgsprosessen slik at du slipper jobben
 
 <h2>Kontakt oss</h2>
 
-<form action="https://formspree.io/f/YOURID" method="POST">
+<form action="https://formspree.io/f/xyknjqoy" method="POST">
 
 <label>Navn</label>
 <input type="text" name="navn" placeholder="Navn" required>
